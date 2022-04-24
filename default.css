@@ -298,8 +298,9 @@ h6 { font-size: 16px;}
 
 #skills{
 	display: flex;
-	border-radius: 5px;
+	border-radius: 9px;
 	justify-content: space-evenly;
+	border:1px solid var(--borderColor);
 	background-color: var(--previewShadow);
 	-webkit-box-shadow: -2px 7px 21px -9px rgba(0,0,0,0.75);
 	-moz-box-shadow: -2px 7px 21px -9px rgba(0,0,0,0.75);
