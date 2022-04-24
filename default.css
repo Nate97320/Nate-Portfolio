@@ -301,6 +301,7 @@ h6 { font-size: 16px;}
 	border-radius: 5px;
 	justify-content: space-evenly;
 	background-color: var(--previewShadow);
+	box-shadow: -2px 7px 21px -9px rgba(0,0,0,0.75);
 }
 
 .social-links{
@@ -328,7 +329,6 @@ h6 { font-size: 16px;}
 	margin:0 auto;
 	object-fit: cover;
 	border-radius: 9px;
-	hight:100%;
 	
 	border:1px solid var(--borderColor);
 	-webkit-box-shadow: -2px 7px 21px -9px rgba(0,0,0,0.75);
